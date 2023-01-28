@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\drawable_pause.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\drawable\\pause.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_play_song.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\layout\\activity_play_song.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\drawable_clipart.png.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\drawable\\clipart.png"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\drawable_next.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\drawable\\next.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\drawable_previous.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\drawable\\previous.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\drawable_black.jpg.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\drawable\\black.jpg"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\drawable_play.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\drawable\\play.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Personal\\#PROJECTS\\MusicLite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]

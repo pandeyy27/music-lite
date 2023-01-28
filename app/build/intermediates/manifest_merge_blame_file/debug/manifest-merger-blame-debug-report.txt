@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.musiclite"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:5:5-80
+11-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:5:22-77
+12
+13    <application
+13-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:7:5-27:19
+14        android:allowBackup="true"
+14-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\am27s\.gradle\caches\transforms-3\d79cd730aff89e16bbe6bbee05f6ceb1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:11:9-41
+20        android:requestLegacyExternalStorage="true"
+20-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:8:9-52
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.MusicLite" >
+24-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:14:9-47
+25        <activity
+25-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:15:9-17:20
+26            android:name="com.example.musiclite.PlaySong"
+26-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:15:19-43
+27            android:parentActivityName="com.example.musiclite.MainActivity" >
+27-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:16:13-55
+28        </activity>
+29        <activity
+29-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:18:9-26:20
+30            android:name="com.example.musiclite.MainActivity"
+30-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:19:13-41
+31            android:exported="true" >
+31-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:20:13-36
+32            <intent-filter>
+32-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:21:13-25:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:22:17-69
+33-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:24:17-77
+35-->D:\Personal\#PROJECTS\MusicLite\app\src\main\AndroidManifest.xml:24:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->[com.karumi:dexter:6.2.3] C:\Users\am27s\.gradle\caches\transforms-3\ad5a86c22167397a396b60e94305ec90\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+39            android:name="com.karumi.dexter.DexterActivity"
+39-->[com.karumi:dexter:6.2.3] C:\Users\am27s\.gradle\caches\transforms-3\ad5a86c22167397a396b60e94305ec90\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:28:13-60
+40            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+40-->[com.karumi:dexter:6.2.3] C:\Users\am27s\.gradle\caches\transforms-3\ad5a86c22167397a396b60e94305ec90\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:29:13-69
+41
+42        <provider
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\am27s\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+43            android:name="androidx.startup.InitializationProvider"
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\am27s\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+44            android:authorities="com.example.musiclite.androidx-startup"
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\am27s\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+45            android:exported="false" >
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\am27s\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+46            <meta-data
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\am27s\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+47                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\am27s\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+48                android:value="androidx.startup" />
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\am27s\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+49            <meta-data
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\am27s\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\am27s\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+51                android:value="androidx.startup" />
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\am27s\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+52        </provider>
+53    </application>
+54
+55</manifest>
